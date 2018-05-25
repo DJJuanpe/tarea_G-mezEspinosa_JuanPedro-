@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	Escribir 'nombre del Coche'
+	Escribir 'nombre del coche'
 	Leer producto
 	Escribir 'precio de cada coche'
 	Leer precio
