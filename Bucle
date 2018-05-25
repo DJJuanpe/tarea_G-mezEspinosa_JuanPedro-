@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Escribir 'nombre del producto'
+	Leer producto
+	Escribir 'precio de cada unidad'
+	Leer precio
+	Escribir 'maximo de unidades'
+	Leer maximo_unidades
+	Escribir producto
+	Para numero_unidades	<-1 Hasta maximo_unidades Hacer
+		Escribir "unidades" ,numero_unidades," precio", precio*numero_unidades
+	FinPara
+FinAlgoritmo
