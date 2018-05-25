@@ -1,7 +1,7 @@
 Algoritmo sin_titulo
-	Escribir 'nombre del producto'
+	Escribir 'nombre del Coche'
 	Leer producto
-	Escribir 'precio de cada unidad'
+	Escribir 'precio de cada coche'
 	Leer precio
 	Escribir 'maximo de unidades'
 	Leer maximo_unidades
